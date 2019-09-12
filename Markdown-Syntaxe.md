@@ -47,7 +47,7 @@ Voici la deuxième ligne.
 
 Pour mettre l'accent sur certains éléments d'un texte, on peut les mettre en "bold" ou en "Italic"
 
-**Bold**   ** bold1 ** , un blod d** an **s un mot  
+**Bold**   ** bold1 ** , un bold d** an **s un mot  
 *Italic*   * italic * , _ italic2 _ , un italic d* an * s un mot
 
 
@@ -136,7 +136,7 @@ On utilise * , + ou -
 Les blocs de code sont normalement en retrait de quatre espaces ou d'un seul onglet. Quand ils sont dans une liste, indentez-les huit espaces ou deux onglets.
 
 1.  Ouvrir le fichier.
-2.  Recherchez le bloc de code suivant à la ligne 21:
+2.  Par exemple:
 
         <html>
           <head>
@@ -149,7 +149,7 @@ Le rendu ressemble à ceci:
 
     Ouvrir le fichier.
 
-    Recherchez le bloc de code suivant à la ligne 21:
+    Par exemple:
 
 ```html
         <html>
@@ -184,22 +184,6 @@ I love supporting the **[EFF](https://eff.org)**.
 This is the *[Markdown Guide](https://www.markdownguide.org)*.
 
 
-### Liens de style référence
+## Source 
 
-Les liens de style référence sont un type de lien spécial qui facilite l'affichage et la lecture des URL dans Markdown. Les liens de style référence sont construits en deux parties: la partie que vous maintenez alignée avec votre texte et la partie que vous stockez ailleurs dans le fichier pour que le texte reste facile à lire.
-
-
-### Formater la première partie du lien
-
-La première partie d'un lien de style de référence est formatée avec deux ensembles de crochets. Le premier ensemble de crochets entoure le texte qui doit apparaître lié. Le deuxième ensemble de crochets affiche une étiquette utilisée pour pointer vers le lien que vous stockez ailleurs dans votre document.
-
-Bien que cela ne soit pas obligatoire, vous pouvez inclure un espace entre le premier et le deuxième ensemble de crochets. De plus, l’étiquette du deuxième ensemble de crochets ne fait pas la différence entre les majuscules et les minuscules et peut inclure des lettres, des chiffres, des espaces ou des signes de ponctuation.
-
-Cela signifie que les exemples de formats suivants sont tous à peu près équivalents pour la première partie du lien:
-
-* [hobbit-hole][1]
-* [hobbit-hole][1]
-* [hobbit-hole][a]
-* [hobbit-hole][A]
-
-
+* [MarkDown Guide](https://www.markdownguide.org/basic-syntax/)
