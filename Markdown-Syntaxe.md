@@ -133,4 +133,28 @@ On utilise * , + ou -
 
 ### Les blocks de code
 
+Les blocs de code sont normalement en retrait de quatre espaces ou d'un seul onglet. Quand ils sont dans une liste, indentez-les huit espaces ou deux onglets.
+
+1.  Ouvrir le fichier.
+2.  Recherchez le bloc de code suivant à la ligne 21:
+
+        <html>
+          <head>
+            <title>Test</title>
+          </head>
+
+3.  Mettez à jour le titre pour correspondre au nom de votre site Web.
+
+Le rendu ressemble à ceci:
+
+    Ouvrir le fichier.
+
+    Recherchez le bloc de code suivant à la ligne 21:
+
+    <html>
+      <head>
+        <title>Test</title>
+      </head>
+
+    Mettez à jour le titre pour correspondre au nom de votre site Web.
 
