@@ -103,3 +103,34 @@ Quel que soit l'ordre des chiffres que l'on met, le résultat sera toujours 1,2,
 
 *Les listes non numérotées:*
 
+* Premier objet
+* Deuxième objet
+* Troisième objet
+* Quatrième objet 
+
+On utilise * , + ou -
+
+**Ajouter un élément à une liste sans modifier la continuité de cette dernière**
+
+*Avec les paragraphes:*
+
+* Premier objet
+* Deuxième objet
+
+  J'ai besoin d'intégrer un paragraphe dans ma liste (espace ou tab ou se mettre au même niveau)
+
+* Troisième objet
+
+*Avec les blockquotes:*
+
+* Premier objet
+* Deuxième objet
+
+  >Voici un blockquote
+
+* Troisième objet
+
+
+### Les blocks de code
+
+
