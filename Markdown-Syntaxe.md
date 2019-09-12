@@ -35,8 +35,23 @@ Voici la première ligne.
 Voici la deuxième ligne.
 
 
-### Bold et Italic
+### Bold ou Italic
 
 Pour mettre l'accent sur certains éléments d'un texte, on peut les mettre en "bold" ou en "Italic"
 
-**Bold**   ** bold1 ** ,  _ bold2 _  , un blod d** an **s un mot  
+**Bold**   ** bold1 ** , un blod d** an **s un mot  
+*Italic*   * italic * , _ italic2 _ , un italic d* an * s un mot
+
+
+### Bold et Italic
+
+C'est ***très*** important  ***
+
+C'est __*vraiment*__ important    __ * * __
+
+C'est **_vraiment_** important   ** _ **
+
+
+### Les Blockquotes
+
+Ajouter un 
