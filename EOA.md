@@ -31,4 +31,6 @@ Le concept Environnement d’apprentissage» peut être caractérisé par, au mo
 *Jean vanderspelden, consultant ITG Paris pour l'accompagnement de projets de formation ouverte et à distance, en vue du développement des compétences des adultes et  travaille sur l’alliance entre "Pédagogie des adultes et intégration du numérique" dans les pratiques des acteurs du savoir formant et accompagnant des publics de tous niveaux, y compris les adultes peu qualifiés.
 02 /10/2015*
 
-[Sources](https://epale.ec.europa.eu/fr/node/14159)
+###Sources
+
+* [EPALE](https://epale.ec.europa.eu/fr/node/14159)
