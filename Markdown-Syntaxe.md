@@ -1,7 +1,7 @@
 # La syntaxe Markdown
 
 
-#### Headings
+### Headings
 
 # Heading lvl1 
 "#" + texte
@@ -20,3 +20,10 @@
 
 ###### Heading lvl6
 "######" + texte
+
+
+### Les paragraphes
+
+*Ceci est un paragraphe*
+
+*Ceci est un second paragraphe*
