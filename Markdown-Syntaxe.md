@@ -62,4 +62,18 @@ C'est **_vraiment_** important   ** _ **
 
 ### Les Blockquotes
 
-Ajouter un
+*Ajouter un > devant un paragraphe pour faire un blockquote*
+
+> Voici un blockquote
+
+*Un blockquote peut aussi contenir plusieur paragraphes en ajoutant un > sur l'espace blanc entre deux paragraphes*
+
+> Voici un paragraphe
+>
+> Voici un second paragraphe
+
+*Les blockquotes peuvent être imbriqués. Il suffit d'ajouter >> devant le paragraphe que l'on veut imbriquer*
+
+> Voici un paragraphe
+>
+>> Voici un paragraphe imbriqué
