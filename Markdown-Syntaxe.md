@@ -1,4 +1,4 @@
-**# La Syntaxe Markdown**
+***# La syntaxe Markdown***
 
 
 ***#### Headings***
@@ -17,4 +17,6 @@
 
 ##### Heading lvl5
 "#####" + texte
-f###### Heading lvl6
+
+###### Heading lvl6
+"######" + texte
