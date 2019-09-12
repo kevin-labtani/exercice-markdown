@@ -12,6 +12,17 @@ Le **Markdown** est un langage de balisage léger créé en 2004 par [**John Gru
 
 Un document balisé par Markdown peut être converti en HTML, en PDF ou en autres formats. Bien que la syntaxe Markdown ait été influencée par plusieurs filtres de conversion de texte existants vers HTML — dont Setext3, atx4, Textile, reStructuredText, Grutatext5 et EtText6 —, la source d’inspiration principale est le format du courrier électronique en mode texte.
 
+## Dans quel but ?
+
+Le Markdown est tellement simpliste et rapide qu'il peut être utiliser pour pleins de choses qui ont besoin d’être fait rapidement et lisiblement
+
+Voici des exemples :
+
+* Note ce cours
+* Article blog
+* Tuto, guide
+* rédaction de documentation (comme ce que vous êtes actuellement en train de lire)
+
 
 
 ## sources
