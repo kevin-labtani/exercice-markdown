@@ -6,7 +6,9 @@
 1. [Environnement Optimisé pour l'Apprentissage](https://github.com/kevin-labtani/exercice-markdown/blob/master/EOA.md)
 
 
-# Qu'est ce que le Markdown ?! ![Markdown Logo](/markdown.png)
+![Markdown Logo](/markdown.png)
+
+# Qu'est ce que le Markdown ?!
 
 Le **Markdown** est un langage de balisage léger créé en 2004 par [**John Gruber**](https://daringfireball.net/) avec [**Aaron Swartz**](https://fr.wikipedia.org/wiki/Aaron_Swartz). Son but est d'offrir une syntaxe facile à lire et à écrire. Un document balisé par Markdown peut être lu en l'état sans donner l’impression d'avoir été balisé ou formaté par des instructions particulières.
 
@@ -16,7 +18,7 @@ Un document balisé par Markdown peut être converti en HTML, en PDF ou en autre
 
 Le Markdown est tellement simpliste et rapide qu'il peut être utiliser pour pleins de choses qui ont besoin d’être fait rapidement et lisiblement
 
-### Voici des exemples 
+### Voici des exemples
 
 * Note de cours
 * Article de blog
