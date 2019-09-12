@@ -8,7 +8,8 @@
 # *Vous avez dit environnement d’apprentissage !*
 
 
-## Le terme «Environnement d’apprentissage» est de plus en plus présent dans les écrits concernant l’éducation et la formation des adultes. Cela correspond à la convergence de trois facteurs que nous nous proposons d’éclairer dans ce billet :
+### Définition
+Le terme «Environnement d’apprentissage» est de plus en plus présent dans les écrits concernant l’éducation et la formation des adultes. Cela correspond à la convergence de trois facteurs que nous nous proposons d’éclairer dans ce billet :
 
 ### Une évolution des théories d’apprentissage : «de la transmission des connaissances vers l’autoformation accompagnée »
 
