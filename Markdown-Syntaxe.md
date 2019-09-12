@@ -1,4 +1,4 @@
-***# La syntaxe Markdown***
+# La syntaxe Markdown
 
 
 ***#### Headings***
