@@ -16,7 +16,7 @@ Un document balisé par Markdown peut être converti en HTML, en PDF ou en autre
 
 Le Markdown est tellement simpliste et rapide qu'il peut être utiliser pour pleins de choses qui ont besoin d’être fait rapidement et lisiblement
 
-### Voici des exemples :
+### Voici des exemples 
 
 * Note de cours
 * Article de blog
