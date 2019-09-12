@@ -1,7 +1,7 @@
 # La syntaxe Markdown
 
 
-***#### Headings***
+#### Headings
 
 # Heading lvl1 
 "#" + texte
