@@ -77,3 +77,29 @@ C'est **_vraiment_** important   ** _ **
 > Voici un paragraphe
 >
 >> Voici un paragraphe imbriqué
+
+*Les blockquotes peuvent aussi contenir plusieurs autres éléments Markdown. Toutefois, tous les éléments ne peuvent pas utiliser - , à vous de voir lesquels fonctionnent* 
+
+> #### Voici un head
+>
+> - Voici une ligne
+> - Voici une autre ligne
+>
+>  *Voici* un autre **paragraphe**.
+
+
+### Les listes
+
+**On peut organiser notre travail en faisant des listes**
+
+*Les listes numérotées:*
+
+1. Premier objet
+2. Deuxième objet
+3. Troisième objet
+4. Quatrième objet
+
+Quel que soit l'ordre des chiffres que l'on met, le résultat sera toujours 1,2,3,4,...
+
+*Les listes non numérotées:*
+
