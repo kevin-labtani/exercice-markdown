@@ -18,8 +18,8 @@ Le Markdown est tellement simpliste et rapide qu'il peut être utiliser pour ple
 
 ### Voici des exemples :
 
-* Note ce cours
-* Article blog
+* Note de cours
+* Article de blog
 * Tuto, guide
 * rédaction de documentation (comme ce que vous êtes actuellement en train de lire)
 
