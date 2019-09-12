@@ -141,7 +141,7 @@ Les blocs de code sont normalement en retrait de quatre espaces ou d'un seul ong
         <html>
           <head>
             <title>Test</title>
-          </head>
+          </head>         
 
 3.  Mettez à jour le titre pour correspondre au nom de votre site Web.
 
@@ -151,10 +151,12 @@ Le rendu ressemble à ceci:
 
     Recherchez le bloc de code suivant à la ligne 21:
 
-    <html>
-      <head>
-        <title>Test</title>
-      </head>
+```html
+        <html>
+          <head>
+            <title>Test</title>
+          </head>
+```         
 
     Mettez à jour le titre pour correspondre au nom de votre site Web.
 
